@@ -41,7 +41,6 @@
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent">
 
-        <!-- Первая строка кнопок -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -73,7 +72,6 @@
                 android:text="/" />
         </LinearLayout>
 
-        <!-- Вторая строка кнопок -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -105,7 +103,6 @@
                 android:text="X" />
         </LinearLayout>
 
-        <!-- Третья строка кнопок -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -137,7 +134,6 @@
                 android:text="-" />
         </LinearLayout>
 
-        <!-- Четвертая строка кнопок -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -169,7 +165,6 @@
                 android:text="+" />
         </LinearLayout>
 
-        <!-- Пятая строка кнопок -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
