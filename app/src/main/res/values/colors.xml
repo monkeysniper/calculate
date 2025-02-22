@@ -5,4 +5,7 @@
     <color name="grey">#D4D4D2</color>
     <color name="dark_grey">#505050</color>
     <color name="orange">#FF9500</color>
+    <color name="red">#FF9500</color>
+    <color name="dark_blue">#2D3648</color>
+    <color name="violet">#5D51F9</color>
 </resources>
